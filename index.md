@@ -1,5 +1,6 @@
 # Simrat's First CS193 Lab
 
+Things I like:
 - nothing yet
 - i'm sure i'll find something eventually
 - don't be sad
